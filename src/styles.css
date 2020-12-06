@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #eee;
+}
+
+.svg {
+  width: 500px;
+  height: 500px;
+  background-color: white;
+}
+
+.circle {
+  fill: red;
+}
